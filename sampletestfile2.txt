@@ -1,1 +1,1 @@
-Git revert file
+Git revert the file
