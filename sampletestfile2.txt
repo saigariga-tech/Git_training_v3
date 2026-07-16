@@ -1,0 +1,2 @@
+Git revert the file
+this is comparison leture, chnage in file 2
