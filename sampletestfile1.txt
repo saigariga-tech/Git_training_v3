@@ -1,0 +1,1 @@
+If you have only completed courses and labs in Azure DevOps, Docker, Terraform, and Kubernetes, but your professional experience is primarily VMware, many companies may evaluate you closer to the ₹10–13 LPA range initially.
